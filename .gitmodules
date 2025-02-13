@@ -1,0 +1,9 @@
+[submodule "travel-log-app"]
+	path = travel-log-app
+	url = https://github.com/Pkmartus/travel-log-app
+[submodule "PizzaOrder"]
+	path = PizzaOrder
+	url = https://github.com/Pkmartus/PizzaOrder
+[submodule "ContactsSite"]
+	path = ContactsSite
+	url = https://github.com/Pkmartus/ContactsSite
